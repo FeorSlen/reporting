@@ -1,9 +1,9 @@
 # Backend
 backend/venv/
 backend/.venv/
-backend/__pycache__/
+backend/app/__pycache__/
 backend/*.pyc
-backend/.env
+backend/app/.env
 backend/.env.local
 backend/static/*
 !backend/static/.gitkeep
