@@ -1,4 +1,4 @@
-открой проект в visual studio code (or webstorm) и убедись что у тебя установлен node.js. 
+открой проект в visual studio code (or webstorm) и убедись что у тебя установлен node.js. /n
 
 npm --version
 node --version
